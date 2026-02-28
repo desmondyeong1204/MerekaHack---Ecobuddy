@@ -2,6 +2,8 @@
 
 A React-powered platform bridging the "intention-action gap" in urban sustainability. Features Gemini AI for food rescue "Surprise Boxes," AI container verification to cut plastic, and a gamified "Eco-Mirror" digital pet. Driving real SDG 11, 12, and 13 impact through verified green habits.
 
+
+
 🌿 **EcoBuddy**
 
 Zero-Friction Sustainability via AI-Verified Action and Emotional Gamification.
@@ -9,6 +11,8 @@ Zero-Friction Sustainability via AI-Verified Action and Emotional Gamification.
 EcoBuddy is a mobile application developed for KitaHack 2026 that bridges the "intention-action gap" in urban sustainability. Unlike traditional apps that rely on the "honor system," 
 
 EcoBuddy uses Gemini 1.5 Flash to physically verify green actions before rewarding users.
+
+
 
 🚀 **The Problem & Our Solution**
 
@@ -21,6 +25,8 @@ Recycling Contamination: High contamination rates render collected materials unr
 Carbon Emissions: Heavy reliance on private vehicles for short urban errands (under 3km).
 
 Our Unique Selling Proposition (USP): We shift from "self-reporting" to AI-Verified Compliance using multimodal vision and real-time spatial reasoning.
+
+
 
 🎯 **SDG Alignment**
 
@@ -38,11 +44,13 @@ Merchant Efficiency: Merchants list "Surprise Boxes" by category and quantity in
 
 AI Urgency: Gemini AI automatically assesses food risk (e.g., tagging Sushi as "CRITICAL URGENCY") to nudge nearby users for immediate rescue.
 
+
 Camera 2. BYO Container AI Lock
 
 Verification Gatekeeper: The checkout button is physically locked until the Gemini Vision AI scans and verifies a reusable container in the camera frame.
 
 Volume Estimation: AI estimates the meal volume to ensure the user's container is the correct size.
+
 
 Sprout 3. The Eco-Mirror (Digital Pet)
 
@@ -50,11 +58,14 @@ Emotional Accountability: Your actions reflect in your pet's room.
 
 The Penalty: Using single-use plastic triggers a "foggy/dirty" room state for 3 days, creating a psychological deterrent against waste.
 
+
 Walking 4. Green Mobility & Recycling Detector
 
 Green Mobility: Detects short commutes via Google Maps API and nudges users to walk, calculating real-time CO₂ savings.
 
 Recycling Detector: AI-verified object detection ensures only correct materials enter municipal recycling streams.
+
+
 
 🛠️ **Tech Stack**
 
@@ -66,9 +77,14 @@ Backend: Firebase (Firestore, Auth, Storage)
 
 Geolocation: Google Maps API 
 
+
+
 👥 **The Team**
 
 Tan Si Min 
+
 Lee Chian Ye 
+
 Gan Zi Xiang 
+
 Yeong Chee Yaw 
