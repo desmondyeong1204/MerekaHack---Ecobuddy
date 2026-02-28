@@ -18,23 +18,23 @@ EcoBuddy uses Gemini 1.5 Flash to physically verify green actions before rewardi
 
 We address the specific challenges faced by urban citizens and F&B merchants:
 
-Rampant Food Waste: Malaysia generates 17,000 tonnes of food waste daily; 24% is still edible.
+***Rampant Food Waste:*** Malaysia generates 17,000 tonnes of food waste daily; 24% is still edible.
 
-Recycling Contamination: High contamination rates render collected materials unrecyclable.
+***Recycling Contamination:*** High contamination rates render collected materials unrecyclable.
 
-Carbon Emissions: Heavy reliance on private vehicles for short urban errands (under 3km).
+***Carbon Emissions:*** Heavy reliance on private vehicles for short urban errands (under 3km).
 
-Our Unique Selling Proposition (USP): We shift from "self-reporting" to AI-Verified Compliance using multimodal vision and real-time spatial reasoning.
+***Our Unique Selling Proposition (USP):*** We shift from "self-reporting" to AI-Verified Compliance using multimodal vision and real-time spatial reasoning.
 
 
 
 🎯 **SDG Alignment**
 
-SDG 11: Sustainable Cities & Communities – Promoting sustainable transport (Target 11.2) and reducing urban waste impact (Target 11.6).
+***SDG 11: Sustainable Cities & Communities*** – Promoting sustainable transport (Target 11.2) and reducing urban waste impact (Target 11.6).
 
-SDG 12: Responsible Consumption & Production – Halving retail food waste (Target 12.3) and substantially reducing waste through prevention and reuse (Target 12.5).
+***SDG 12: Responsible Consumption & Production*** – Halving retail food waste (Target 12.3) and substantially reducing waste through prevention and reuse (Target 12.5).
 
-SDG 13: Climate Action – Improving climate education and awareness through tangible impact metrics (Target 13.3).
+***SDG 13: Climate Action*** – Improving climate education and awareness through tangible impact metrics (Target 13.3).
 
 ✨ **Key Features**
 
