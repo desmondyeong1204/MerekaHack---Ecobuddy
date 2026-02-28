@@ -36,30 +36,32 @@ We address the specific challenges faced by urban citizens and F&B merchants:
 
 ***SDG 13: Climate Action*** – Improving climate education and awareness through tangible impact metrics (Target 13.3).
 
+
+
 ✨ **Key Features**
 
-Bento 1. Leftover Food (Surprise Box)
+***Bento 1. Leftover Food (Surprise Box)***
 
 Merchant Efficiency: Merchants list "Surprise Boxes" by category and quantity in under 15 seconds.
 
 AI Urgency: Gemini AI automatically assesses food risk (e.g., tagging Sushi as "CRITICAL URGENCY") to nudge nearby users for immediate rescue.
 
 
-Camera 2. BYO Container AI Lock
+***Camera 2. BYO Container AI Lock***
 
 Verification Gatekeeper: The checkout button is physically locked until the Gemini Vision AI scans and verifies a reusable container in the camera frame.
 
 Volume Estimation: AI estimates the meal volume to ensure the user's container is the correct size.
 
 
-Sprout 3. The Eco-Mirror (Digital Pet)
+***Sprout 3. The Eco-Mirror (Digital Pet)***
 
 Emotional Accountability: Your actions reflect in your pet's room.
 
 The Penalty: Using single-use plastic triggers a "foggy/dirty" room state for 3 days, creating a psychological deterrent against waste.
 
 
-Walking 4. Green Mobility & Recycling Detector
+***Walking 4. Green Mobility & Recycling Detector***
 
 Green Mobility: Detects short commutes via Google Maps API and nudges users to walk, calculating real-time CO₂ savings.
 
@@ -69,13 +71,13 @@ Recycling Detector: AI-verified object detection ensures only correct materials 
 
 🛠️ **Tech Stack**
 
-Frontend: React Native (Modular architecture)
+***Frontend:*** React Native (Modular architecture)
 
-AI Engine: Google AI Studio & Gemini 1.5 Flash (Multimodal Vision & Reasoning)
+***AI Engine:*** Google AI Studio & Gemini 1.5 Flash (Multimodal Vision & Reasoning)
 
-Backend: Firebase (Firestore, Auth, Storage)
+***Backend:*** Firebase (Firestore, Auth, Storage)
 
-Geolocation: Google Maps API 
+***Geolocation:*** Google Maps API 
 
 
 
