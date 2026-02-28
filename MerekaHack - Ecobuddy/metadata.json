@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Remix: Remix: EcoBuddy latest",
+  "description": "A gamified sustainability app that encourages green habits through digital pet care, recycling tracking, and step counting.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}

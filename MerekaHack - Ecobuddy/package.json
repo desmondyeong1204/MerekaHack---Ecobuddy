@@ -1,0 +1,33 @@
+{
+  "name": "ecobuddy",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx server.ts",
+    "build": "vite build",
+    "start": "node server.ts",
+    "preview": "vite preview",
+    "lint": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@google/genai": "^1.40.0",
+    "@types/express": "^5.0.6",
+    "@types/leaflet": "^1.9.21",
+    "axios": "^1.13.5",
+    "express": "^5.2.1",
+    "google-auth-library": "^10.6.1",
+    "leaflet": "^1.9.4",
+    "lucide-react": "^0.563.0",
+    "motion": "^12.34.3",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "tsx": "^4.21.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0"
+  }
+}
