@@ -5,7 +5,7 @@ A React-powered platform bridging the "intention-action gap" in urban sustainabi
 🌿 **EcoBuddy**
 
 Zero-Friction Sustainability via AI-Verified Action and Emotional Gamification.
-EcoBuddy is a mobile application developed for KitaHack 2026 that bridges the "intention-action gap" in urban sustainability. Unlike traditional apps that rely on the "honor system," EcoBuddy uses Gemini 1.5 Flash to physically verify green actions before rewarding users.
+/nEcoBuddy is a mobile application developed for KitaHack 2026 that bridges the "intention-action gap" in urban sustainability. Unlike traditional apps that rely on the "honor system," EcoBuddy uses Gemini 1.5 Flash to physically verify green actions before rewarding users.
 
 🚀 **The Problem & Our Solution**
 
